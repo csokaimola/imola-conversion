@@ -1,0 +1,4 @@
+*.dat
+results/*
+!b.out
+.DS_Store
